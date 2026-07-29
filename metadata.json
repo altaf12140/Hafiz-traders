@@ -1,0 +1,6 @@
+{
+  "name": "Hafiz Traders - Shop Management System",
+  "description": "Comprehensive Point of Sale (POS), Inventory, Customer Khata Ledger, Supplier Purchases, Expense Tracker, and Financial Reports for Hafiz Traders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
